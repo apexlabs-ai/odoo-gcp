@@ -15,9 +15,6 @@
     'category': 'Extra Tools',
     'version': '13.0.0.1',
     'depends': ['base'],
-    'external_dependencies': {
-        'python': ['google-cloud-logging'],
-    },
     'data': [
     ],
     'installable': True,
